@@ -2,7 +2,7 @@
   <h1 style="display: flex; align-items: center; justify-content: center; width: 100%;">
      반려동물 일상을 자랑하는 커뮤니티, 집사모여
 
-  </h1><img src="./resources/img/main.png"/>
+  </h1><img src="./resources/img/banner.png"/>
 <!--   <h3>소개란</h3> -->
   <h3>반려동물 일상을 사진으로 공유하는 커뮤니티 SNS 플랫폼</h3>
   <p>2026.04.09 ~ 현재</p>
