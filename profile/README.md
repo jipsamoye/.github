@@ -120,7 +120,7 @@
 
 ### 시스템 아키텍처
 
-<img width="100%" src="./resources/img/main.png">
+<img width="100%" src="./resources/img/architecture.png">
 
 <br/>
 <br/>
