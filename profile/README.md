@@ -148,7 +148,7 @@
   </tr>
   <tr>
     <td><img src="https://github.com/JeonBongsik.png" alt="전영식" width="200"></td>
-    <td><img src="./resources/img/blank.png" alt="심은혜" width="200"></td>
+    <td><img src="./resources/img/profile-default.png" alt="심은혜" width="200"></td>
   </tr>
   <tr align="center">
     <td><b>전영식</b></td>
