@@ -121,12 +121,6 @@
 <img width="100%" src="./resources/img/main.png">
 
 <br/>
-
-### ERD
-
-<img width="100%" src="./resources/img/main.png">
-
-<br/>
 <br/>
 
 ## [개발 환경 및 기술 스택](#목차)
@@ -136,7 +130,7 @@
 |    **Frontend**     | ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)                                                                                                                                                                                                                          |
 |     **Backend**     | ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge&logoColor=white) |
 |       **DB**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                                                                                                                                                                                                                                  |
-|      **Infra**      | ![NaverCloudPlatform](https://img.shields.io/badge/NAVER_CLOUD_PLATFORM-03C75A?style=for-the-badge&logo=naver&logoColor=white) ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                                                                                                                                                                                  |
+|      **Infra**      | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                                                                                                                                                                                  |
 |     **CI / CD**     | ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white)                                                                                                                                                                                                                                                                                                                         |
 | **Management Tool** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)                            |
 
@@ -154,14 +148,10 @@
   </tr>
   <tr>
     <td><img src="https://github.com/JeonBongsik.png" alt="전영식" width="200"></td>
-    <td><img src="./resources/img/main.png" alt="심은혜" width="200"></td>
+    <td><img src="./resources/img/blank.png" alt="심은혜" width="200"></td>
   </tr>
   <tr align="center">
     <td><b>전영식</b></td>
     <td><b>심은혜</b></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://github.com/JeonBongsik">@JeonBongsik</a></td>
-    <td>심은혜</td>
   </tr>
 </table>
