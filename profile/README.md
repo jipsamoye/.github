@@ -14,8 +14,8 @@
 <br/>
 
 <a name="features"></a>
-## [${\color{#F05A32}\textsf{서비스 주요 기능}}$](#목차)
-### <img src="https://img.shields.io/badge/1-F05A32?style=for-the-badge&labelColor=F05A32" alt="1"/> AI 키캡 피규어 만들기
+## ${\color{#F05A32}\textsf{서비스 주요 기능}}$
+### ${\color{#F05A32}\textsf{1}}$ AI 키캡 피규어 만들기
 
 > 반려동물 사진 한 장만 올리면 세상에 하나뿐인 ${\color{#F05A32}\textsf{아티산 키캡 위 미니 피규어}}$ 이미지로 만들 수 있어요.
 >
@@ -31,7 +31,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/2-F05A32?style=for-the-badge&labelColor=F05A32" alt="2"/> 게시글 (자랑하기)
+### ${\color{#F05A32}\textsf{2}}$ 게시글 (자랑하기)
 
 > 반려동물 일상을 ${\color{#F05A32}\textsf{게시글로 자랑}}$할 수 있어요.
 >
@@ -45,7 +45,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/3-F05A32?style=for-the-badge&labelColor=F05A32" alt="3"/> 메인 피드 — 구경하고 반응하기
+### ${\color{#F05A32}\textsf{3}}$ 메인 피드 — 구경하고 반응하기
 
 > ${\color{#F05A32}\textsf{이주의 자랑}}$과 ${\color{#F05A32}\textsf{최신 자랑글}}$을 구경하다가 마음에 드는 게시글을 바로 눌러볼 수 있어요.
 >
@@ -59,7 +59,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/4-F05A32?style=for-the-badge&labelColor=F05A32" alt="4"/> 오픈채팅
+### ${\color{#F05A32}\textsf{4}}$ 오픈채팅
 
 > 모든 집사가 한곳에 모이는 ${\color{#F05A32}\textsf{오픈채팅}}$에서 실시간으로 대화할 수 있어요.
 
@@ -69,7 +69,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/5-F05A32?style=for-the-badge&labelColor=F05A32" alt="5"/> DM
+### ${\color{#F05A32}\textsf{5}}$ DM
 
 > 마음이 맞는 집사와 ${\color{#F05A32}\textsf{1:1 DM}}$으로 실시간 대화를 나눌 수 있어요.
 >
@@ -83,7 +83,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/6-F05A32?style=for-the-badge&labelColor=F05A32" alt="6"/> 알림
+### ${\color{#F05A32}\textsf{6}}$ 알림
 
 > 좋아요·댓글·대댓글·팔로우 등 내 게시글에 대한 반응을 ${\color{#F05A32}\textsf{알림}}$으로 모아볼 수 있어요.
 >
@@ -95,7 +95,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/7-F05A32?style=for-the-badge&labelColor=F05A32" alt="7"/> 프로필
+### ${\color{#F05A32}\textsf{7}}$ 프로필
 
 > ${\color{#F05A32}\textsf{내 프로필}}$에서 내가 올린 자랑글과 팔로워·팔로잉을 한눈에 볼 수 있어요.
 >
@@ -109,7 +109,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/8-F05A32?style=for-the-badge&labelColor=F05A32" alt="8"/> 로그인 · 검색 · 랭킹
+### ${\color{#F05A32}\textsf{8}}$ 로그인 · 검색 · 랭킹
 
 > ${\color{#F05A32}\textsf{네이버 소셜 로그인}}$으로 간편하게 시작하고 로그인 없이도 ${\color{#F05A32}\textsf{둘러보기}}$로 주요 기능을 체험할 수 있어요.
 >
@@ -123,7 +123,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/9-F05A32?style=for-the-badge&labelColor=F05A32" alt="9"/> 자유게시판
+### ${\color{#F05A32}\textsf{9}}$ 자유게시판
 
 > 자랑 외에도 일반·질문 카테고리의 자유게시판에서 정보를 나누고 소통할 수 있어요.
 
@@ -135,7 +135,7 @@
 <br>
 
 <a name="design"></a>
-## [${\color{#F05A32}\textsf{프로젝트 설계}}$](#목차)
+## ${\color{#F05A32}\textsf{프로젝트 설계}}$
 
 ### 시스템 아키텍처
 
@@ -145,7 +145,7 @@
 <br/>
 
 <a name="tech"></a>
-## [${\color{#F05A32}\textsf{개발 환경 및 기술 스택}}$](#목차)
+## ${\color{#F05A32}\textsf{개발 환경 및 기술 스택}}$
 
 |      개발 환경      | 기술 스택                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | :-----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -162,7 +162,7 @@
 <br/>
 
 <a name="team"></a>
-## [${\color{#F05A32}\textsf{팀원 소개}}$](#목차)
+## ${\color{#F05A32}\textsf{팀원 소개}}$
 
 ## **Contributors**
 
