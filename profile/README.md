@@ -143,6 +143,14 @@
 <img width="100%" src="./resources/img/architecture.png">
 
 <br/>
+
+### 이미지 파이프라인
+
+> 이미지는 presigned URL로 S3에 직접 업로드되고, Lambda가 썸네일을 만들어 Cloudflare CDN으로 서빙돼요.
+
+<img width="100%" src="./resources/img/image-pipeline.png">
+
+<br/>
 <br/>
 
 <a name="tech"></a>
